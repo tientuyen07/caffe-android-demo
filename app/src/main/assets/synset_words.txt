@@ -1,8 +1,8 @@
-n01440764 tench, Tinca tinca
-n01443537 goldfish, Carassius auratus
-n01484850 great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias
-n01491361 tiger shark, Galeocerdo cuvieri
-n01494475 hammerhead, hammerhead shark
+n01440764 bệnh do điểm vi khuẩn, đốm vi khuẩn trên lá
+n01443537 bệnh mốc sương, sương mai ở lá
+n01484850 bệnh bạc lá, vàng lá do nấm mốc, côn trùng gây ra
+n01491361 bệnh vàng lá do virus gây ra ở cà chua
+n01494475 lá cà chua khỏe mạnh
 n01496331 electric ray, crampfish, numbfish, torpedo
 n01498041 stingray
 n01514668 cock

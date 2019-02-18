@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1023783159292",
+    "firebase_url": "https://sendimages-c0cb6.firebaseio.com",
+    "project_id": "sendimages-c0cb6",
+    "storage_bucket": "sendimages-c0cb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023783159292:android:537b4338f9be4b61",
+        "android_client_info": {
+          "package_name": "com.sh1r0.caffe_android_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023783159292-fethqndml7m5r3g3dbtmtgnrkq4e5fe5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sh1r0.caffe_android_demo",
+            "certificate_hash": "53922fbf2d8f7dea246b7ff6715d8da4aecc719d"
+          }
+        },
+        {
+          "client_id": "1023783159292-n1oenuu3rsp6o99lam35n6ca2krlb6f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXh0OnFWhbdLpWrBs-YYXA53ja3HjFTP8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023783159292-n1oenuu3rsp6o99lam35n6ca2krlb6f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
